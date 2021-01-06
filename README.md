@@ -1,2 +1,5 @@
 # hexagonGame
-Hexagon game with webGL build
+
+## Overview
+
+Hexagon game with webGL build, made for Web Development class final project.
